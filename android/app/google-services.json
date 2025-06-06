@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "996643637532",
+    "project_id": "cd-automation-b92ca",
+    "storage_bucket": "cd-automation-b92ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996643637532:android:639e399a0bd36dc01292d9",
+        "android_client_info": {
+          "package_name": "com.example.quizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNzL4RajABJqBUXBxfMXO33mzPbqY4I3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
