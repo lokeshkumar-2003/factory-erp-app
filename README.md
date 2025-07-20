@@ -4,7 +4,7 @@ A secure and collaborative mobile + web-based system for managing and monitoring
 
 ---
 
-## 🔐 Security
+## Security
 
 - Each user device is authenticated using a unique *device ID*.
 - Device IDs are stored in the database to prevent unauthorized access.
@@ -12,12 +12,12 @@ A secure and collaborative mobile + web-based system for managing and monitoring
 
 ---
 
-## 👥 User Roles
+## User Roles
 
-### 👤 Normal User
+## Normal User
 - Can submit *daily energy meter readings* only.
 
-### 👨‍💼 Admin
+## Admin
 - Manage employee profiles, meter details, and all readings.
 - *Download monthly readings* as a *PDF* report.
 - *Visualize data* using charts and detect anomalies.
@@ -25,7 +25,7 @@ A secure and collaborative mobile + web-based system for managing and monitoring
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Tech         | Description                                 |
 |--------------|---------------------------------------------|
@@ -37,13 +37,13 @@ A secure and collaborative mobile + web-based system for managing and monitoring
 
 ---
 
-## 🤝 Teamwork
+## Teamwork
 
 This project was developed in *collaboration with a team*, focusing on integrating secure authentication, smart data handling, and real-time alerts into a unified platform.
 
 ---
 
-## 📄 Features Summary
+## Features Summary
 
 - ✅ Device-based secure login
 - ✅ Daily meter reading submission
@@ -54,4 +54,30 @@ This project was developed in *collaboration with a team*, focusing on integrati
 
 ---
 
-Let me know if you want to add demo screenshots, GitHub deployment instructions, or .env setup.
+---
+
+## Demo
+
+ <h3>Home page</h3>
+  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/factory-erp-app/refs/heads/main/demo/homepage.jpg" height="400"/>
+<h3>Deviceid Link in Device</h3>
+  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/factory-erp-app/refs/heads/main/demo/linkeddeviceid.jpg" height="400"/>
+  <h3>Login Page</h3>
+  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/factory-erp-app/refs/heads/main/demo/authpage.jpg"  height="400"/>
+  <h3>Dashboard</h3>
+  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/factory-erp-app/refs/heads/main/demo/dashboard.jpg"  height="400"/>
+  <h3>User List</h3>
+  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/factory-erp-app/refs/heads/main/demo/userlist.jpg"  height="400"/>
+  <h3>Meters List</h3>
+  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/factory-erp-app/refs/heads/main/demo/meterslist.jpg"  height="400"/>
+  <h3>Meter edit page</h3>
+  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/factory-erp-app/refs/heads/main/demo/metermanage.jpg"  height="400"/>
+ <h3>Meter Scanner</h3>
+  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/factory-erp-app/refs/heads/main/demo/scanner.jpg"  height="400"/>
+  <h3>Readings list</h3>
+  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/factory-erp-app/refs/heads/main/demo/readingslist.jpg"  height="400"/>
+ <h3>Readings chart</h3>
+  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/factory-erp-app/refs/heads/main/demo/chart.jpg"  height="400"/>
+<h3>Readings Report Pdf</h3>
+  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/factory-erp-app/refs/heads/main/demo/readingsreport.jpg"  height="400"/>
+
