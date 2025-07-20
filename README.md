@@ -1,6 +1,6 @@
 # Cd_automation Erp App
 
-A secure and collaborative mobile + web-based system for managing and monitoring employee energy meter readings, built using *Flutter, **Flask, **MySQL, and **YOLO*.
+A secure and collaborative mobile + web-based system for managing and monitoring employee energy meter readings, built using Flutter, Flask, MySQL, Firebase and YOLO.
 
 ---
 
