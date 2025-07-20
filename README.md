@@ -72,6 +72,8 @@ This project was developed in *collaboration with a team*, focusing on integrati
   <img src="https://raw.githubusercontent.com/lokeshkumar-2003/factory-erp-app/refs/heads/main/demo/meterslist.jpg"  height="400"/>
   <h3>Meter edit page</h3>
   <img src="https://raw.githubusercontent.com/lokeshkumar-2003/factory-erp-app/refs/heads/main/demo/metermanage.jpg"  height="400"/>
+   <h3>Metername Scanner</h3>
+  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/factory-erp-app/refs/heads/main/demo/meterscanner.jpg"  height="400"/>
  <h3>Meter Scanner</h3>
   <img src="https://raw.githubusercontent.com/lokeshkumar-2003/factory-erp-app/refs/heads/main/demo/scanner.jpg"  height="400"/>
   <h3>Readings list</h3>
