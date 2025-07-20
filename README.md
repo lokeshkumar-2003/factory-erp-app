@@ -67,7 +67,7 @@ This project was developed in *collaboration with a team*, focusing on integrati
   <h3>Dashboard</h3>
   <img src="https://raw.githubusercontent.com/lokeshkumar-2003/factory-erp-app/refs/heads/main/demo/dashboard.jpg"  height="400"/>
   <h3>User List</h3>
-  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/factory-erp-app/refs/heads/main/demo/userlist.jpg"  height="400"/>
+  <img src="https://raw.githubusercontent.com/lokeshkumar-2003/factory-erp-app/refs/heads/main/demo/userslist.jpg"  height="400"/>
   <h3>Meters List</h3>
   <img src="https://raw.githubusercontent.com/lokeshkumar-2003/factory-erp-app/refs/heads/main/demo/meterslist.jpg"  height="400"/>
   <h3>Meter edit page</h3>
