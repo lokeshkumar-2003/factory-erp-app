@@ -80,6 +80,7 @@ This project was developed in *collaboration with a team*, focusing on integrati
   <img src="https://raw.githubusercontent.com/lokeshkumar-2003/factory-erp-app/refs/heads/main/demo/readingslist.jpg"  height="400"/>
  <h3>Readings chart</h3>
   <img src="https://raw.githubusercontent.com/lokeshkumar-2003/factory-erp-app/refs/heads/main/demo/chart.jpg"  height="400"/>
+  
 <h3>Readings Report Pdf</h3>
   <img src="https://raw.githubusercontent.com/lokeshkumar-2003/factory-erp-app/refs/heads/main/demo/readingsreport.jpg"  height="400"/>
 
